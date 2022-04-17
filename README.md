@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/darkwa-john-6aa9b6202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darkwa-john-6aa9b6202" height="30" width="40" /></a>
 <a href="https://fb.com/darkwa.john.581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darkwa.john.581" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithdarkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithdarkwa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithdarkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithdarkwa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithdarkwa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
