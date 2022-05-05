@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darkwa John</h1>
 <h3 align="center">A passionate full stack developer from Ghana</h3>
-
+<a href="https://app.daily.dev/codewithdarkwa"><img src="https://api.daily.dev/devcards/0f574992bca34298a6cd3e2221665554.png?r=xrw" width="400" alt="Darkwa's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codewithdarkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithdarkwa" height="30" width="40" /></a>
