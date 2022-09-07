@@ -46,6 +46,8 @@
     </tbody>
 </table>
 
+### Explore Channel 😊
+
 [![CodeWithDarkwa youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCzU6QYLkI7WJi-KGMJcevGw&theme=dark)](https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codewithdarkwa&theme=dark)  
