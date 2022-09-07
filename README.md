@@ -8,8 +8,8 @@ Skills: HTML/CSS/JS/REACT/REACT NATIVE/GIT/NODE/EXPRESS/FIREBASE
 - 💬 Ask me about anything related to Web and Mobile App development(React Native) 
 - 📫 How to reach me: codewithdarkwa@gmail.com 
 
-[![CodeWithDarkwa youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCzU6QYLkI7WJi-KGMJcevGw)](https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw)
-[![CodeWithDarkwa video stats](https://youtube-stats-card.vercel.app/api/video?videoid=KJhg761xb3c)](https://youtu.be/KJhg761xb3c)
+[![CodeWithDarkwa youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCzU6QYLkI7WJi-KGMJcevGw)](https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw)[![CodeWithDarkwa video stats](https://youtube-stats-card.vercel.app/api/video?videoid=KJhg761xb3c)](https://youtu.be/KJhg761xb3c)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codewithdarkwa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/darkwa-john-6aa9b6202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/darkwa.john.581)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/codewithdarkwa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/codewithdarkwa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](codewithdarkwa.me)  
 
