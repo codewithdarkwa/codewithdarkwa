@@ -8,7 +8,7 @@ Skills: HTML/CSS/JS/REACT/REACT NATIVE/GIT/NODE/EXPRESS/FIREBASE
 - 💬 Ask me about anything related to Web and Mobile App development(React Native) 
 - 📫 How to reach me: codewithdarkwa@gmail.com 
 
-[![CodeWithDarkwa youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCzU6QYLkI7WJi-KGMJcevGw)](https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw)                                                                                                [![CodeWithDarkwa video stats](https://youtube-stats-card.vercel.app/api/video?videoid=KJhg761xb3c)](https://youtu.be/KJhg761xb3c)
+[![CodeWithDarkwa youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCzU6QYLkI7WJi-KGMJcevGw)](https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codewithdarkwa)  
 
