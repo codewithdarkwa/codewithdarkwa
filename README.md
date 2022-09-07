@@ -46,12 +46,13 @@
     </tbody>
 </table>
 
-[![CodeWithDarkwa youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCzU6QYLkI7WJi-KGMJcevGw)](https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw)
+[![CodeWithDarkwa youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCzU6QYLkI7WJi-KGMJcevGw&theme=dark)](https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codewithdarkwa)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codewithdarkwa&theme=dark)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdarkwa&show_icons=true&theme=dark)  
 
 [![Codewithdarkwa github activity graph](https://activity-graph.herokuapp.com/graph?username=codewithdarkwa&theme=react-dark)](https://github.com/codewithdarkwa/github-readme-activity-graph)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdarkwa&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/codewithdarkwa)  
