@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is John Darkwa
-#### A passionate full stack developer from Ghana
+#### A passionate full stack and Mobile app developer from Ghana
 
 - 🔭 I’m currently working on food-delivery-app with react native 
 - 🌱 I’m currently learning flutter 
