@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is John Darkwa
 #### A passionate full stack and Mobile app developer from Ghana
 
-- 🔭 I’m currently working on food-delivery-app with react native 
+- 🔭 I’m currently working on Knust feedback app
 - 🌱 I’m currently learning flutter 
 - 💬 Ask me about anything related to Web and Mobile App development(React Native and Flutter) 
 - 📫 How to reach me: codewithdarkwa@gmail.com 
