@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on Knust feedback app
 - 🌱 I’m currently learning flutter 
+- 👯 My Area of Interest's are **Web development and  Mobile app development**
 - 💬 Ask me about anything related to Web and Mobile App development(React Native and Flutter) 
 - 📫 How to reach me: codewithdarkwa@gmail.com 
 
