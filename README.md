@@ -56,5 +56,4 @@
 [![Codewithdarkwa github activity graph](https://activity-graph.herokuapp.com/graph?username=codewithdarkwa&theme=react-dark)](https://github.com/codewithdarkwa/github-readme-activity-graph)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdarkwa&show_icons=true&theme=dark)  
-
-![Profile views](https://gpvc.arturio.dev/codewithdarkwa)  
+ 
