@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is John Darkwa
-#### A passionate full stack and Mobile app developer from Ghana
+#### A passionate full stack, Mobile app developer and a Youtuber from Ghana
 
 - 🔭 I’m currently working on a mobile application that offers small-scale finance firms a user-friendly and effective accounting software, with a well-crafted and attractive design.
 - 🌱 I’m currently learning clean architecture in flutter 
