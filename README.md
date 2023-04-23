@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a mobile application that offers small-scale finance firms a user-friendly and effective accounting software, with a well-crafted and attractive design.
 - 🌱 I’m currently learning clean architecture in flutter 
 - 👯 My Area of Interest's are **Web development and  Mobile app development**
-- 💬 Ask me about anything related to Web and Mobile App development(Flutter and REact Native) 
+- 💬 Ask me about anything related to Web and Mobile App development(Flutter and React Native) 
 - 📫 How to reach me: codewithdarkwa@gmail.com 
 
 <table width="320px">
