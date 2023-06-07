@@ -28,6 +28,10 @@
             </td>
         </tr>
         <tr valign="top">
+             <td width="80px" align="center">
+            <span><strong>Dart</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+            </td>
             <td width="80px" align="center">
             <span><strong>JavaScript</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -39,10 +43,6 @@
             <td width="80px" align="center">
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-             <td width="80px" align="center">
-            <span><strong>Dart</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
             </td>
         </tr>
     </tbody>
