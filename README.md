@@ -56,5 +56,4 @@
 
 [![CodeWithDarkwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithdarkwa&theme=github-compact)](https://github.com/codewithdarkwa/github-readme-activity-graph)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdarkwa&show_icons=true&theme=dark)  
  
