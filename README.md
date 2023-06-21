@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is John Darkwa
-#### A passionate Mobile app developer, Full Stack developer and a Youtuber from Ghana
+#### A passionate Mobile app developer, Full Stack developer, and a Youtuber from Ghana
 
-- 🔭 I’m currently working on The RideOn App is a customer-centric platform that facilitates easy and convenient transportation services. Customers can request pick-ups at their chosen locations, which are then dispatched to available drivers within a specified area. Once a driver accepts the request, they proceed to the customer's location for pick-up and transport them to their desired destination. The app also allows customers to rate their experience and make payments for the services provided. With features like customer and driver registration, as well as driver identification, RideOn aims to provide a seamless and reliable travel experience.
+- 🔭 I’m currently working on RideOn App a transportation platform that connects customers with nearby drivers for pick-up and drop-off services. Customers can request rides, which are dispatched to available drivers. The app enables easy registration for customers and drivers and provides driver identification for a safe and convenient travel experience.
 - 🌱 I’m currently learning clean architecture in Flutter 
 - 👯 My Area of Interest's are **Mobile app development and Web development**
 - 💬 Ask me about anything related to Web and Mobile App development(Flutter and React Native) 
