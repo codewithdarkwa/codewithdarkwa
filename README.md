@@ -2,7 +2,7 @@
 #### A passionate Mobile app developer, Full Stack developer, and a Youtuber from Ghana
 
 - 🔭 Mobile Developer Advocate @bigdataghana.
-- 🌱 I’m currently learning clean architecture in Flutter 
+- 🌱 I’m currently learning swift for IOS development 
 - 👯 My Area of Interest's are **Mobile app development and Web development**
 - 💬 Ask me about anything related to Web and Mobile App development(Flutter and React Native) 
 - 📫 How to reach me: codewithdarkwa@gmail.com 
