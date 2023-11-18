@@ -4,7 +4,7 @@
 - 🔭 Mobile Developer Advocate @bigdataghana.
 - 🌱 I’m currently learning Swift for IOS development. 
 - 👯 My Area of Interest's are **Mobile app development and Web development**
-- 💬 Ask me about anything related Mobile App development(Flutter and React Native) 
+- 💬 Ask me about anything related Mobile App development(Flutter, React Native and Swift) 
 - 📫 How to reach me: codewithdarkwa@gmail.com 
 
 <table width="320px">
