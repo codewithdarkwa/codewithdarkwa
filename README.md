@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is John Darkwa
-#### A passionate Mobile app developer, Full Stack developer, and a Youtuber from Ghana
+#### A passionate Mobile app developer, and a Youtuber from Ghana
 
 - 🔭 Mobile Developer Advocate @bigdataghana.
 - 🌱 I’m currently learning Swift for IOS development. 
