@@ -2,7 +2,7 @@
 #### A passionate Mobile app developer, and a Youtuber from Ghana
 
 - 🔭 Mobile Developer Advocate @bigdataghana.
-- 🌱 I’m currently learning Swift for IOS development. 
+- 🌱 I’m currently learning SwiftUI for IOS development. 
 - 👯 My Area of Interest's are **Mobile app development and Web development**
 - 💬 Ask me about anything related Mobile App development(Flutter, React Native and SwiftUI) 
 - 📫 How to reach me: codewithdarkwa@gmail.com 
