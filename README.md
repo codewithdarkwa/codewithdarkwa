@@ -1,3 +1,4 @@
+# 🫴About Me
 ### Hi there 👋, my name is John Darkwa
 #### A passionate Mobile app developer, and a Youtuber from Ghana
 
