@@ -4,7 +4,7 @@
 
 - 🔭 Mobile Developer Advocate @bigdataghana.
 - 🌱 I’m currently learning SwiftUI for IOS development. 
-- 👯 My Area of Interest's are **Mobile app development and Web development**
+- 👯 My Area of Interest's are **Mobile app development 
 - 💬 Ask me about anything related Mobile App development(Flutter, React Native and SwiftUI) 
 - 📫 How to reach me: codewithdarkwa@gmail.com 
 
