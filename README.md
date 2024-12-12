@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning SwiftUI for IOS development. 
 - 👯 My Area of Interest is Mobile app development 
 - 💬 Ask me about anything related Mobile App development(Flutter, React Native and SwiftUI) 
-- 📫 How to reach me: codewithdarkwa@gmail.com 
+- 📫 How to reach me: codewithdarkwa@gmail.com/jnrdrkw1@gmail.com
 
  
 <table width="320px">
