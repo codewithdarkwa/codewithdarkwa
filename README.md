@@ -2,7 +2,6 @@
 ### Hi there 👋, my name is John Darkwa
 #### A passionate Mobile app developer, and a Youtuber from Ghana
 
-- 🔭 Graduate Mobile Engineer @hubtel.
 - 🌱 I’m currently learning SwiftUI for IOS development. 
 - 👯 My Area of Interest is Mobile app development 
 - 💬 Ask me about anything related Mobile App development(Flutter, React Native and SwiftUI) 
